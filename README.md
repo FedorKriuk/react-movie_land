@@ -1,4 +1,5 @@
-### Hey there!
+### Hey there! ✌️
+# MovieLand
 
 *** 
   MovieLand is a React/ JavaScript project for movie search. 
